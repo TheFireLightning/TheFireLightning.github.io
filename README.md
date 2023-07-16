@@ -35,6 +35,9 @@
 [Project 1]
 ![New Project (25) (1)](https://github.com/TheFireLightning/TheFireLightning.github.io/assets/139693090/f82eb836-6082-4b0c-aab3-63ea3b3d5524)
 
-Developed innovative EEG band optimization strategy using Lua's UI and scripting. Outperformed traditional approaches by 2x, capturing key signal components. Lua enabled intuitive user experience and flexible clothing design for better electrode fit and data accuracy. Revolutionized EEG analysis in 458 chars.
+[Project 2]
 
-- [Message Me If Any Problems](thefirelightning8@gmail.com)
+
+Developed an innovative Lua strategy to explore optimal EEG bands based on signal power. Lua's scripting capabilities and user interface compatibility improved power spectrum characterization, surpassing standard band boundaries with a two-fold improvement. Lua's interface facilitated intuitive data interaction and visualization. It enabled effortless capture of key components and flexible brain activity analysis. Lua's versatility and library support also aided clothing design for EEG applications. Iterative design improvements enhanced comfort and accuracy. In summary, Lua revolutionized EEG band identification, improving power spectrum characterization and enabling innovative clothing design.
+
+- [Message Me If Any Problems]thefirelightning8@gmail.com
