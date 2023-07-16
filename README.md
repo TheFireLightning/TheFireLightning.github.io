@@ -1,24 +1,38 @@
-# Mos
+# My Portfolio
 
-#### My Portfolio
+#### From Mos
 
-## Lua & User Interface 
+## Lua & User Interface and Clothing Designer
 - Experience in developing user interfaces using Lua programming language.
 - Proficient in Lua programming language for creating intuitive and interactive user interfaces.
 - Skilled in leveraging Lua to design and implement user-friendly interfaces for various applications.
+- Skilled in using my creative flair to design and implement visually appealing and fashionable clothing designs for a variety of styles and occasions.
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+** Lua & User Interface Expert, Clothing Designer
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+- Leveraged Lua programming language to implement robust user interfaces, significantly improving the overall user experience across diverse software applications.
+- Streamlined and optimized data pipeline processes in Lua, resulting in enhanced efficiency and performance when handling large datasets.
+- Designed and developed intuitive user interface layouts in Lua, effectively boosting user engagement and satisfaction.
+- Showcased creativity and expertise as a clothing designer, creating unique and visually appealing clothing designs.
+- Translated fashion concepts into tangible clothing designs using a combination of traditional and digital techniques.
+- Collaborated with clients and manufacturers to ensure accurate and high-quality production of clothing designs.
+- Stayed abreast of the latest fashion trends and incorporated them into innovative and captivating clothing designs.
+- Oversaw the end-to-end clothing design process, from ideation and sketching to the final product creation.
 
-## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+**Lua & User Interface Developer, Clothing Designer
+
+- Collaborated with cross-functional teams to gather requirements and design user interfaces in Lua for web and mobile applications.
+- Utilized Lua scripting to create dynamic and interactive user interfaces, resulting in enhanced usability and functionality.
+- Conducted data analysis and visualization using Lua, providing valuable insights to clients for informed decision-making in user interface design.
+- Applied creativity and expertise as a clothing designer, designing and creating unique clothing pieces.
+- Developed fashion concepts and translated them into tangible clothing designs using a combination of traditional and digital techniques.
+- Collaborated with clients and manufacturers to ensure accurate and high-quality production of clothing designs.
+- Stayed updated with the latest fashion trends and incorporated them into innovative and appealing clothing designs.
+- Managed the end-to-end clothing design process, from ideation and sketching to final product creation.
+
+### Completed Projects
+[Project 1](https://www.mdpi.com/1424-8220/22/8/3048)
 
 Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
 
