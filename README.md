@@ -1,6 +1,6 @@
 # My Portfolio
 
-#### From Mos
+#### Mos
 
 ## Lua & User Interface and Clothing Designer
 - Experience in developing user interfaces using Lua programming language.
