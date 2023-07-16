@@ -32,7 +32,8 @@
 - Managed the end-to-end clothing design process, from ideation and sketching to final product creation.
 
 ### Completed Projects
-[Project 1](https://www.mdpi.com/1424-8220/22/8/3048)
+[Project 1]
+![New Project (25) (1)](https://github.com/TheFireLightning/TheFireLightning.github.io/assets/139693090/f82eb836-6082-4b0c-aab3-63ea3b3d5524)
 
 Developed innovative EEG band optimization strategy using Lua's UI and scripting. Outperformed traditional approaches by 2x, capturing key signal components. Lua enabled intuitive user experience and flexible clothing design for better electrode fit and data accuracy. Revolutionized EEG analysis in 458 chars.
 
